@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:32:00+09:00",
+  "updatedAt": "2026-09-18T04:37:00+09:00",
   "source": "Flightradar24",
   "legs": [
     {
@@ -13,7 +13,7 @@
       "flight": "QF77", "from": "PER", "to": "SIN",
       "scheduledDep": "2026-09-17T23:20:00+08:00", "scheduledArr": "2026-09-18T04:55:00+08:00",
       "dep": "2026-09-17T23:23:00+08:00", "depKind": "actual",
-      "arr": "2026-09-18T04:27:00+08:00", "arrKind": "estimated",
+      "arr": "2026-09-18T04:28:00+08:00", "arrKind": "estimated",
       "status": "departed", "label": "飛行中", "terminal": "T4", "gate": "20"
     },
     {
