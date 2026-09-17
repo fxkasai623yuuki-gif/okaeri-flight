@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.flightradar24.com)",
+      "WebFetch(domain:free.flightradar24.com)",
+      "WebFetch(domain:www.flightstats.com)",
+      "WebFetch(domain:www.airnavradar.com)",
+      "WebFetch(domain:en.airnavradar.com)",
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git status:*)",
+      "Bash(date:*)"
+    ]
+  }
+}
