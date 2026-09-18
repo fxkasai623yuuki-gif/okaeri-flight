@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:13:00+09:00",
+  "updatedAt": "2026-09-18T09:15:00+09:00",
   "source": "Flightradar24",
   "legs": [
     {
@@ -19,7 +19,7 @@
     {
       "flight": "JL712", "from": "SIN", "to": "NRT",
       "scheduledDep": "2026-09-18T08:05:00+08:00", "scheduledArr": "2026-09-18T16:10:00+09:00",
-      "dep": "2026-09-18T08:05:00+08:00", "depKind": "estimated",
+      "dep": "2026-09-18T08:12:00+08:00", "depKind": "estimated",
       "arr": null, "arrKind": null,
       "status": "scheduled", "label": "出発見込み", "terminal": "T1", "gate": null
     }
